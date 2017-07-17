@@ -16,18 +16,32 @@ body {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 72px;
   text-align: center; 
-  background-color: #1a1a1c;  
-  background-image: url("http://cdn2.stylecraze.com/wp-content/uploads/2013/02/14-Simple-Tricks-To-Make-Your-Hair-Grow-Faster.jpg");
+  background-color: #4f0418;  
+   height: 600px;
+  
+  
+  /* 
+   background-image: url("back.jpg");
   background-repeat: no-repeat;
-  background-position: left;
-  height: 600px;
+  background-position: left bottom;
+  background-size: 1483px, 600px;
+  */
 }
 
 
 h1 {
 	width: 100%;
-	padding-top: 190px;
+	padding-top: 150px;
 	margin-right: 50px;
+	text-align: center;
+}
+
+h5 {
+  margin-top: -110px;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 120px;
+  text-align: center; 
 }
 
 
@@ -35,7 +49,7 @@ img {
 	width: 50px;
 	height: 50px;
 	position: relative;
-	left: 545px;
+	left: 525px;
 	bottom: 70px;
 }
 
@@ -43,26 +57,32 @@ img {
 .insta{
 	color: white;
     font-family: 'Sacramento', cursive;	
-	font-size: 25px;
+	font-size: 35px;
 	text-align: center;
 	width: 100px;
-	margin-left: 595px;
-	margin-top: -140px;
+	margin-left: 575px;
+	margin-top: -150px;
+	
 
 }
 
+a {
+	color: white;
+	text-decoration: none;
+	
+}
 
 
 
 .number{
 	color: white;
 	font-family: 'Sacramento', cursive;	
-	font-size:15px;
+	font-size:20px;
 	text-align: center;
 	font-weight: bold;
-	margin-top: -53px;
+	margin-top: -70px;
 	width: 100px;
-	margin-left: 750px;
+	margin-left: 795px;
 	
 }
 
@@ -100,7 +120,8 @@ h3 {
  margin-top: 50px;	
 }
 .navigationback {
-	margin-left: 20px;
+	margin-left: 30px;
+	
 }
 
 
@@ -146,7 +167,7 @@ td{
 }
 
 tr:hover {
-	background-color: #afafac;
+	background-color: #e8dede;
 }
 
 table.center {
@@ -162,4 +183,14 @@ table.center {
 	 padding-top: 400px;
 	 position: relative;
 	
+ }
+ 
+ .smallprint{
+	 margin-bottom: 70px;
+	 color: #000;
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	position: relative;
+	    font-weight: bold;
  }
