@@ -7,8 +7,8 @@ body {
 
 
 #container {
-    width:94%;
-    margin:3%;
+    width: 100%;
+	margin: 
 }
 
  
@@ -36,7 +36,7 @@ img {
 	width: 50px;
 	height: 50px;
 	position: relative;
-	left: 500px;
+	left: 36.7%;
 	bottom: 70px;
 }
 
@@ -47,7 +47,7 @@ img {
 	font-size: 25px;
 	text-align: center;
 	width: 100px;
-	margin-left: 550px;
+	margin-left: 40%;
 	margin-top: -140px;
 
 }
@@ -63,12 +63,12 @@ img {
 	font-weight: bold;
 	margin-top: -53px;
 	width: 100px;
-	margin-left: 685px;
+	margin-left: 50%;
 	
 }
 
 .banner {
-	margin-left: 90px;
+	margin-left: 70px;
 	position: relative;
 	margin-bottom: 0;
 }
@@ -98,9 +98,7 @@ h3 {
 	padding-top: 20px;
 	padding-bottom: 20px;
     background-color: #e8dede;
-    margin: 50px;	
-	margin-left: 20px;
-	margin-right: 20px;
+    margin-top: 50px;
 }
 
 
