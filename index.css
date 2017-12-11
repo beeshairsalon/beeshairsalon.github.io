@@ -12,7 +12,7 @@ body {
      color: whitesmoke;
   font-size: 120px;
   text-align: center; 
-  font-family: 'Century Gothic', sans-serif;
+ font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
     	
     font-weight: lighter;
    padding: 200px 20px 20px 20px;
@@ -21,8 +21,7 @@ body {
 
 .banner{
       
-    font-family: 'Century Gothic', sans-serif;
-    	
+   font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
     font-weight: lighter;
     color: whitesmoke;
 	font-size: 18px;
@@ -32,8 +31,8 @@ body {
 
 .doors{
     
-    font-family: 'Century Gothic', sans-serif;
-    
+    font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
+     font-weight: bold;
     padding: 1px;
     margin: 0px;
     text-align: center;
@@ -44,7 +43,7 @@ body {
 
 .banner a {
       
-  font-family: 'Century Gothic', sans-serif;
+   font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
     	
     font-weight: lighter;
 	color: white;
@@ -55,8 +54,8 @@ body {
 
 .times {
 	text-align: center;
-    font-family: 'Century Gothic', sans-serif;
-    
+    font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
+    font-weight: bold;
 	font-size: 24px;
 	padding-bottom: 5px;
 	padding-top: 5px;
@@ -70,10 +69,11 @@ body {
 }
 
 .pricelist{
-    font-size: 40px;
+    font-size: 60px;
     margin: 0px;
     padding: 0px;
-    font-family: 'Century Gothic', sans-serif;
+     font-weight: bold;
+   font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
    
 	color: #000;
 	text-align: center;
@@ -94,7 +94,7 @@ body {
 .btn {
  background-color: #000;
   color: #FFF;
-  font-family: 'Century Gothic', sans-serif;
+ font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
     	
   font-size: 25px;
   padding: 15px;
@@ -108,8 +108,7 @@ body {
 .btn1 {
   background-color: #000;
   color: #FFF;
-  font-family: 'Century Gothic', sans-serif;
-    	
+ font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
   font-size: 25px;
   padding: 15px;
   z-index: 10000;
@@ -127,9 +126,9 @@ body {
 
 td{
 	text-align: center; 
-	font-family: 'Century Gothic', sans-serif;
-   
+ font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
 	font-size: 25px;
+     font-weight: bold;
 	height: 30px;	
 	width: 500px;
 	vertical-align: middle;
@@ -160,6 +159,7 @@ table.center {
     margin-bottom: 70px;
     color: #000;
 	text-align: center;
-	font-family: 'Century Gothic', sans-serif;
+ font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
+      font-weight: bold;
 	font-size: 20px;
  }
