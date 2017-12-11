@@ -32,12 +32,13 @@ body {
 .doors{
     
     font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
-     font-weight: bold;
+       	
+    font-weight: lighter;
     padding: 1px;
     margin: 0px;
     text-align: center;
     
-	font-size: 15px;
+	font-size: 35px;
     }
 
 
@@ -83,6 +84,7 @@ body {
     margin-top: 70px;
     margin-bottom: 70px;
     text-align: center;
+    
 }
 
 .navigationback {
@@ -97,7 +99,7 @@ body {
  font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
     	font-weight: bold;
   font-size: 25px;
-  padding: 15px;
+      padding: 15px;
   z-index: 10000;
     top: 50%; 
 }
