@@ -19,6 +19,14 @@ body {
     margin-bottom: 0px;
 }
 
+.header a {
+    font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
+    	
+    font-weight: lighter;
+	color: white;
+	text-decoration: none;
+}
+
 .banner{
       
    font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
@@ -33,7 +41,7 @@ body {
     
     font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
        	
-    font-weight: bold;
+    font-weight: lighter;
     padding: 1px;
     margin: 0px;
     text-align: center;
@@ -55,8 +63,8 @@ body {
 
 .times {
 	text-align: center;
-    font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
-    font-weight: bold;
+    font-family: 'Josefin Sans', 'Century Gothic', sans-serif; 
+    font-weight: lighter;
 	font-size: 24px;
 	padding-bottom: 5px;
 	padding-top: 5px;
@@ -73,9 +81,8 @@ body {
     font-size: 60px;
     margin: 0px;
     padding: 0px;
-     font-weight: bold;
+      font-weight: lighter;
    font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
-   
 	color: #000;
 	text-align: center;
 }
@@ -97,7 +104,7 @@ body {
  background-color: #000;
   color: #FFF;
  font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
-    	font-weight: bold;
+    	 font-weight: lighter;
   font-size: 25px;
       padding: 15px;
   z-index: 10000;
@@ -112,7 +119,7 @@ body {
   color: #FFF;
  font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
   font-size: 25px;
-     font-weight: bold;
+      font-weight: lighter;
   padding: 15px;
   z-index: 10000;
     top: 50%; }
@@ -131,7 +138,7 @@ td{
 	text-align: center; 
  font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
 	font-size: 25px;
-     font-weight: bold;
+     font-weight: lighter;
 	height: 30px;	
 	width: 500px;
 	vertical-align: middle;
@@ -163,6 +170,6 @@ table.center {
     color: #000;
 	text-align: center;
  font-family: 'Josefin Sans', 'Century Gothic', sans-serif;
-      font-weight: bold;
+     font-weight: lighter;
 	font-size: 20px;
  }
